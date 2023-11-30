@@ -4,7 +4,8 @@ description:
   # TO BE FILLED
   <br><br>
 
-is_project_page: true
+github:
+  is_project_page: true
 show_downloads: true
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
