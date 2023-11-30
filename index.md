@@ -17,7 +17,7 @@
 
 ## Certifications
 
-- [TensorFlow Developer Certificate](pdf/tfdc-proof.pdf)
+- [TensorFlow Developer Certificate](pdf/tfdc-proof.pdf) !(/images/tfdc-prood.png)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 
