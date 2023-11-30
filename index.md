@@ -21,7 +21,7 @@
 
 This level one certificate exam tests a developers foundational knowledge of integrating machine learning into tools and applications. The certificate program requires an understanding of building TensorFlow models using Computer Vision, Convolutional Neural Networks, Natural Language Processing, and real-world image data and strategies.
 
-![<img src="/images/tfdc-proof.png" width="100" heigh="100"/>](/images/tfdc-proof.png)
+![<img src="/images/tfdc-proof.png" width="10" heigh="10"/>](/images/tfdc-proof.png)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 
