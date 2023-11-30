@@ -15,9 +15,10 @@
 
 ---
 
-## Certifications
+## Certifications (ISO 8601 YYYY-MM-DD)
 
-- [TensorFlow Developer Certificate](pdf/tfdc-proof.pdf) ![](/images/tfdc-proof.png)
+- [TensorFlow Developer Certificate](pdf/tfdc-proof.pdf) (Obtained 2023-10-01) ![/images/tfdc-proof.png](/images/tfdc-proof.png)
+[Credentials](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/83285911)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 
