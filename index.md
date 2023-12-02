@@ -18,21 +18,70 @@
 ## Certifications
 ### 1. [TensorFlow Developer Certificate](https://www.credential.net/32336b58-f7e8-472a-8f41-6ade42699799)
 
-This level one certificate exam tests a developers foundational knowledge of integrating machine learning into tools and applications. The certificate program requires an understanding of building TensorFlow models using Computer Vision, Convolutional Neural Networks, Natural Language Processing, and real-world image data and strategies.
+This level one certificate exam tests a developers foundational knowledge of integrating machine learning into tools and applications.
+
+The certificate program requires an understanding of building TensorFlow models using **Computer Vision, Convolutional Neural Networks, Natural Language Processing, and real-world image data and strategies**.
 
 You can view TensorFlow Developer Certificate holders on our [Credential Network](tensorflow.org/certificate-network)
 
 ![](/images/tfdc-proof.png)
 
-### 2. [DataCamp Data Scientist Professional Certificate](https://www.datacamp.com/certificate/DS0020343630233)
-Data Management, Exploratory Analysis, Statistical Experimentation, Model Development, Coding for Production Environments, Communication and Reporting
+### 2. [DataCamp Professional Data Scientist Certificate](https://www.datacamp.com/certificate/DS0020343630233)
+To get certified this candidate had to display that they have the knowledge, skills, and abilities to perform a Data Scientist role. These included but were not limited to:
 
-![]()
+| Data Management   | Exploratory Analysis               | Statistical Experimentation |
+|-------------------|------------------------------------|-----------------------------|
+| **Model Development** | **Coding for Production Environments** | **Communication and Reporting** |
 
-### 3. [DataCamp Data Analyst Professional Certificate](https://www.datacamp.com/certificate/DA0021974290337)
-Analytic Fundamentals, Exploratory Analysis, Data Management, Visualization and Reporting
+We tested the candidate's skills rigorously through:
 
-![]()
+**Timed assessments**
+
+Through a series of questions on a range of topics, we are able to establish that this individual has the basic knowledge required for a data scientist role. We make use of adaptive testing approaches to understand to a high degree of confidence the skill level of individuals who take the assessments.
+
+**Practical exam submission**
+
+The final stage of the certification required the individual to complete a practical exam. This stage of the certification is graded manually and stringently by our data scientist experts.
+
+The practical exam is split into two parts:
+
+>1. **Technical report:**<br>
+In the case of the technical report, the audience is a data science manager. It can be considered that the work is being presented to show how the task has been approached, why certain actions were taken, and how the work helps to solve the problem defined. There is no one right answer.
+
+>2. **Non-technical presentation:**<br>
+The final stage was to adapt the information towards a non-technical audience. It is a common requirement for data scientists to have to present their work to others who have no background in data science. These audiences are interested in why the work was done and what the outcome was, typically not how it was done.
+
+To learn more about how we built the certification and what our candidates have to achieve to pass, [Download our whitepaper](https://assets.datacamp.com/email/other/ds-certification-whitepaper.pdf).
+
+![](/images/DS0020343630233.png)
+
+### 3. [DataCamp Professional Data Analyst Certificate](https://www.datacamp.com/certificate/DA0021974290337)
+To get certified this candidate had to display that they have the knowledge, skills, and abilities to perform a Data Analyst role. These included but were not limited to:
+
+| Analytic Fundamentals | Exploratory Analysis        |
+|-----------------------|-----------------------------|
+| **Data Management**   | **Visualization and Reporting** |
+
+We tested the candidate's skills rigorously through:
+
+**Timed assessments**
+
+Through a series of questions on a range of topics, we are able to establish that this individual has the basic knowledge required for a data analyst role. We make use of adaptive testing approaches to understand to a high degree of confidence the skill level of individuals who take the assessments.
+Coding challenge
+
+Our coding challenges are free form, where candidates are presented with certain data but it is up to them to come up with an appropriate solution. The goal of this task is to demonstrate that the individual has the ability to perform the tasks required of them as a data analyst without being guided towards the appropriate solution.
+
+**Practical exam submission**
+
+The final stage of the certification required the individual to complete a practical exam. This stage of the certification is graded manually and stringently by our data scientist experts. The practical exam is split into two parts:
+
+>1. **Technical report:**<br>
+In the case of the technical report, the audience is a data science manager. It can be considered that the work is being presented to show how the task has been approached, why certain actions were taken, and how the work helps to solve the problem defined. There is no one right answer.
+
+>2. **Non-technical presentation:**<br>
+The final stage was to adapt the information towards a non-technical audience. It is a common requirement for data analysts to have to present their work to others who have no background in data analytics. These audiences are interested in why the work was done and what the outcome was, typically not how it was done.
+
+![](/images/DA0021974290337.png )
 
 ---
 ---
