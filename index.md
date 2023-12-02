@@ -1,4 +1,4 @@
-e# Data Scientist Portfolio
+# Data Scientist Portfolio
 
 ---
 
@@ -24,8 +24,15 @@ You can view TensorFlow Developer Certificate holders on our [Credential Network
 
 ![](/images/tfdc-proof.png)
 
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
+### 2. [DataCamp Data Scientist Professional Certificate](https://www.datacamp.com/certificate/DS0020343630233)
+Data Management, Exploratory Analysis, Statistical Experimentation, Model Development, Coding for Production Environments, Communication and Reporting
+
+![]()
+
+### 3. [DataCamp Data Analyst Professional Certificate](https://www.datacamp.com/certificate/DA0021974290337)
+Analytic Fundamentals, Exploratory Analysis, Data Management, Visualization and Reporting
+
+![]()
 
 ---
 ---
