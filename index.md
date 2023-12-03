@@ -51,7 +51,7 @@ The practical exam is split into two parts:
 
 >1. **Technical report:**<br>
 In the case of the technical report, the audience is a data science manager. It can be considered that the work is being presented to show how the task has been approached, why certain actions were taken, and how the work helps to solve the problem defined. There is no one right answer.
-
+>
 >2. **Non-technical presentation:**<br>
 The final stage was to adapt the information towards a non-technical audience. It is a common requirement for data scientists to have to present their work to others who have no background in data science. These audiences are interested in why the work was done and what the outcome was, typically not how it was done.
 
@@ -82,7 +82,7 @@ The final stage of the certification required the individual to complete a pract
 
 >1. **Technical report:**<br>
 In the case of the technical report, the audience is a data science manager. It can be considered that the work is being presented to show how the task has been approached, why certain actions were taken, and how the work helps to solve the problem defined. There is no one right answer.
-
+>
 >2. **Non-technical presentation:**<br>
 The final stage was to adapt the information towards a non-technical audience. It is a common requirement for data analysts to have to present their work to others who have no background in data analytics. These audiences are interested in why the work was done and what the outcome was, typically not how it was done.
 
