@@ -71,7 +71,8 @@ We tested the candidate's skills rigorously through:
 **Timed assessments**
 
 Through a series of questions on a range of topics, we are able to establish that this individual has the basic knowledge required for a data analyst role. We make use of adaptive testing approaches to understand to a high degree of confidence the skill level of individuals who take the assessments.
-Coding challenge
+
+**Coding challenge**
 
 Our coding challenges are free form, where candidates are presented with certain data but it is up to them to come up with an appropriate solution. The goal of this task is to demonstrate that the individual has the ability to perform the tasks required of them as a data analyst without being guided towards the appropriate solution.
 
