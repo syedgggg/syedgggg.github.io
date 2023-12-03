@@ -10,9 +10,9 @@
 ---
 **DataCamp Professional Data Analyst Practical Exam**
 
-[Technical Report](/pdf/PDA-practical-exam-technical-report.ipynb) & [Non-Technical Presentation](/pdf/PDA-practical-exam-non-technical-presentation.pdf)
+[Instructions](/projects/PDA/PDA-practical-exam-instructions.pdf) & [Technical Report](/projects/PDA/PDA-practical-exam-technical-report.ipynb) & [Non-Technical Presentation](/projects/PDA/PDA-practical-exam-non-technical-presentation.pdf)
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/syedgggg/syedgggg.github.io/blob/master/pdf/PDA-practical-exam-technical-report.ipynb)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/syedgggg/syedgggg.github.io/blob/master/projects/PDA/PDA-practical-exam-technical-report.ipynb)
 
 ---
 [Project 3 Title](http://example.com/)
