@@ -2,13 +2,17 @@
 
 ---
 
-## Category Name 1 
+## Projects
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+**DataCamp Professional Data Analyst Practical Exam**
+
+[Technical Report](/pdf/PDA-practical-exam-technical-report.ipynb) & [Non-Technical Presentation](/pdf/PDA-practical-exam-non-technical-presentation.pdf)
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/syedgggg/syedgggg.github.io/blob/master/pdf/PDA-practical-exam-technical-report.ipynb)
 
 ---
 [Project 3 Title](http://example.com/)
