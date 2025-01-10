@@ -1,26 +1,17 @@
-# Data Scientist Portfolio
+# Python Programming
 
+### Scientific Computing with Python Certification
+1. Arithmetic Formatter Project
+2. Time Calculator Project
+3. Budget App Project
+4. Polygon Area Calculator Project
+5. Probability Calculator Project
 ---
 
-## Projects
+# Machine Learning
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-**DataCamp Professional Data Analyst Practical Exam**
-
-[Instructions](/projects/PDA/PDA-practical-exam-instructions.pdf) & [Technical Report](/projects/PDA/PDA-practical-exam-technical-report.ipynb) & [Non-Technical Presentation](/projects/PDA/PDA-practical-exam-non-technical-presentation.pdf)
-
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/syedgggg/syedgggg.github.io/blob/master/projects/PDA/PDA-practical-exam-technical-report.ipynb)
-
----
-[Project 3 Title](http://example.com/)
-
----
-
-## Certifications
-### 1. [TensorFlow Developer Certificate](https://www.credential.net/32336b58-f7e8-472a-8f41-6ade42699799)
+### [TensorFlow Developer Certificate](https://www.credential.net/32336b58-f7e8-472a-8f41-6ade42699799)
+<img src="/images/tfdc-proof.png" width="50%" height="50%">
 
 This level one certificate exam tests a developers foundational knowledge of integrating machine learning into tools and applications.
 
@@ -28,9 +19,27 @@ The certificate program requires an understanding of building TensorFlow models 
 
 You can view TensorFlow Developer Certificate holders on our [Credential Network](tensorflow.org/certificate-network)
 
-![](/images/tfdc-proof.png)
 
-### 2. [DataCamp Professional Data Scientist Certificate](https://www.datacamp.com/certificate/DS0020343630233)
+### Projects:
+1. Cat and Dog Image Classifier (image classification)
+    - using TensorFlow, from scratch, built a neural network which classified images as either cats or dogs successfully with above 74% accuracy (needed: 63% accuracy to pass)
+2. Book Recommendation Engine using KNN
+    - using scikit-learn to create a recommendation engine which returns 5 book suggestions based on a book suggestion from user
+3. Linear Regression Health Costs Calculator
+    - using TensorFlow to predict health care costs, built a neural network achieving mean absolute error under $3500 (metric needed to beat to pass)
+4. Neural Network SMS Text Classifier (natural language processing)
+    - using Tensorflow, from scratch, built a neural network which classified text as either spam or not by up to 97% accuracy (on the validation test set)
+---
+
+# Data Science
+
+### [DataCamp Professional Data Scientist Certificate](https://www.datacamp.com/certificate/DS0020343630233)
+<img src="/images/DS0020343630233.png" width="50%" height="50%">
+
+1. [Instructions]()
+2. [Non-Technical Presentation]()
+3. [Technical Presentation]()
+
 To get certified this candidate had to display that they have the knowledge, skills, and abilities to perform a Data Scientist role. These included but were not limited to:
 
 | Data Management   | Exploratory Analysis               | Statistical Experimentation |
@@ -57,9 +66,19 @@ The final stage was to adapt the information towards a non-technical audience. I
 
 To learn more about how we built the certification and what our candidates have to achieve to pass, [Download our whitepaper](https://assets.datacamp.com/email/other/ds-certification-whitepaper.pdf).
 
-![](/images/DS0020343630233.png)
+---
 
-### 3. [DataCamp Professional Data Analyst Certificate](https://www.datacamp.com/certificate/DA0021974290337)
+# Data Analysis
+
+### [DataCamp Professional Data Analyst Certificate](https://www.datacamp.com/certificate/DA0021974290337)
+<img src="/images/DA0021974290337.png " width="50%" height="50%">
+
+1. [Instructions](/projects/PDA/PDA-practical-exam-instructions.pdf)
+2. [Non-Technical Presentation](/projects/PDA/PDA-practical-exam-non-technical-presentation.pdf)
+3. [Technical Presentation](/projects/PDA/PDA-practical-exam-technical-report.ipynb) 
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/syedgggg/syedgggg.github.io/blob/master/projects/PDA/PDA-practical-exam-technical-report.ipynb)
+
 To get certified this candidate had to display that they have the knowledge, skills, and abilities to perform a Data Analyst role. These included but were not limited to:
 
 | Analytic Fundamentals | Exploratory Analysis        |
@@ -86,7 +105,11 @@ In the case of the technical report, the audience is a data science manager. It 
 >2. **Non-technical presentation:**<br>
 The final stage was to adapt the information towards a non-technical audience. It is a common requirement for data analysts to have to present their work to others who have no background in data analytics. These audiences are interested in why the work was done and what the outcome was, typically not how it was done.
 
-![](/images/DA0021974290337.png )
+### Data Analysis with Python Certification
+1. Mean Variance Standard Deviation Calculator
+2. Demographic Data Analyzer
+3. Medical Data Visualizer
+4. Page View Time Series Visualizer
+5. Sea Level Predictor
 
----
 ---
