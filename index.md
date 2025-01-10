@@ -77,9 +77,8 @@ To learn more about how we built the certification and what our candidates have 
 
 1. [Instructions](/projects/PDA/PDA-practical-exam-instructions.pdf)
 2. [Non-Technical Presentation](/projects/PDA/PDA-practical-exam-non-technical-presentation.pdf)
-3. [Technical Presentation](/projects/PDA/PDA-practical-exam-technical-report.ipynb) 
+3. [Technical Presentation](https://github.com/syedgggg/syedgggg.github.io/blob/master/projects/PDA/PDA-practical-exam-technical-report.ipynb)
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/syedgggg/syedgggg.github.io/blob/master/projects/PDA/PDA-practical-exam-technical-report.ipynb)
 
 To get certified this candidate had to display that they have the knowledge, skills, and abilities to perform a Data Analyst role. These included but were not limited to:
 
