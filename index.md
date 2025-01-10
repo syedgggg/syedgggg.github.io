@@ -24,13 +24,13 @@ You can view TensorFlow Developer Certificate holders on our [Credential Network
 
 
 ### Projects:
-1. Cat and Dog Image Classifier (image classification)
+1. [Cat and Dog Image Classifier (image classification)](https://github.com/syedgggg/syedgggg.github.io/blob/master/projects/MLPP/2_fcc_cat_dog_updated.ipynb)
     - using TensorFlow, from scratch, built a neural network which classified images as either cats or dogs successfully with above 74% accuracy (needed: 63% accuracy to pass)
-2. Book Recommendation Engine using KNN
+2. [Book Recommendation Engine using KNN](https://github.com/syedgggg/syedgggg.github.io/blob/master/projects/MLPP/3_fcc_book_recommendation_knn.ipynb)
     - using scikit-learn to create a recommendation engine which returns 5 book suggestions based on a book suggestion from user
-3. Linear Regression Health Costs Calculator
+3. [Linear Regression Health Costs Calculator](https://github.com/syedgggg/syedgggg.github.io/blob/master/projects/MLPP/4_fcc_predict_health_costs_with_regression_updated_incomplete.ipynb)
     - using TensorFlow to predict health care costs, built a neural network achieving mean absolute error under $3500 (metric needed to beat to pass)
-4. Neural Network SMS Text Classifier (natural language processing)
+4. [Neural Network SMS Text Classifier (natural language processing)](https://github.com/syedgggg/syedgggg.github.io/blob/master/projects/MLPP/5_fcc_sms_text_classification_updated.ipynb)
     - using Tensorflow, from scratch, built a neural network which classified text as either spam or not by up to 97% accuracy (on the validation test set)
 
 ---
