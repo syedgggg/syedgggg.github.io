@@ -107,6 +107,7 @@ In the case of the technical report, the audience is a data science manager. It 
 >2. **Non-technical presentation:**<br>
 The final stage was to adapt the information towards a non-technical audience. It is a common requirement for data analysts to have to present their work to others who have no background in data analytics. These audiences are interested in why the work was done and what the outcome was, typically not how it was done.
 
+
 ### Data Analysis with Python Certification
 1. Mean Variance Standard Deviation Calculator
 2. Demographic Data Analyzer
