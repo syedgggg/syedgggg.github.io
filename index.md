@@ -36,7 +36,7 @@ You can view TensorFlow Developer Certificate holders on our [Credential Network
 # Data Science
 
 ### [DataCamp Professional Data Scientist Certificate](https://www.datacamp.com/certificate/DS0020343630233)
-<img src="/images/DS0020343630233.png" width="50%" height="50%">
+<img src="/images/DS0020343630233.png" width="100%" height="100%">
 
 1. [Instructions]()
 2. [Non-Technical Presentation]()
@@ -73,7 +73,7 @@ To learn more about how we built the certification and what our candidates have 
 # Data Analysis
 
 ### [DataCamp Professional Data Analyst Certificate](https://www.datacamp.com/certificate/DA0021974290337)
-<img src="/images/DA0021974290337.png " width="50%" height="50%">
+<img src="/images/DA0021974290337.png " width="100%" height="100%">
 
 1. [Instructions](/projects/PDA/PDA-practical-exam-instructions.pdf)
 2. [Non-Technical Presentation](/projects/PDA/PDA-practical-exam-non-technical-presentation.pdf)
