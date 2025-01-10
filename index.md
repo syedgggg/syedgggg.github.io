@@ -38,9 +38,9 @@ You can view TensorFlow Developer Certificate holders on our [Credential Network
 ### [DataCamp Professional Data Scientist Certificate](https://www.datacamp.com/certificate/DS0020343630233)
 <img src="/images/DS0020343630233.png" width="300%" height="300%">
 
-1. [Instructions]()
-2. [Non-Technical Presentation]()
-3. [Technical Presentation]()
+1. [Instructions](/projects/PDS/PDS-practical-exam-instructions.pdf)
+2. [Non-Technical Presentation]((/projects/PDS/PDS-practical-exam-non-technical-presentation.pdf))
+3. [Technical Presentation]((/projects/PDS/notebook.ipynb))
 
 To get certified this candidate had to display that they have the knowledge, skills, and abilities to perform a Data Scientist role. These included but were not limited to:
 
