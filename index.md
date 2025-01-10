@@ -12,7 +12,7 @@
 # Machine Learning
 
 ### [TensorFlow Developer Certificate](https://www.credential.net/32336b58-f7e8-472a-8f41-6ade42699799)
-<img src="/images/tfdc-proof.png" width="85%" height="85%">
+<img src="/images/tfdc-proof.png" width="100%" height="100%">
 
 This level one certificate exam tests a developers foundational knowledge of integrating machine learning into tools and applications.
 
