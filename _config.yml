@@ -1,9 +1,8 @@
 title: Syed Ghazali # your name (or website title) here
 #logo: "/images/logo.png?raw=true" # your photo (or logo) here 
 description:
-  Welcome to my personal project page showcasing the work I have personally completed in the fields of data analysis, data science and data engineering
+  This is my personal project page showcasing the work I have personally completed in the fields of data analysis, data science, data engineering and machine learning.
   <br><br>
-  This page is seperated into main sections
 
 show_downloads: false
 remote_theme: pages-themes/minimal@v0.2.0
