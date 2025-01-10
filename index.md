@@ -6,12 +6,13 @@
 3. Budget App Project
 4. Polygon Area Calculator Project
 5. Probability Calculator Project
+
 ---
 
 # Machine Learning
 
 ### [TensorFlow Developer Certificate](https://www.credential.net/32336b58-f7e8-472a-8f41-6ade42699799)
-<img src="/images/tfdc-proof.png" width="50%" height="50%">
+<img src="/images/tfdc-proof.png" width="75%" height="75%">
 
 This level one certificate exam tests a developers foundational knowledge of integrating machine learning into tools and applications.
 
@@ -29,6 +30,7 @@ You can view TensorFlow Developer Certificate holders on our [Credential Network
     - using TensorFlow to predict health care costs, built a neural network achieving mean absolute error under $3500 (metric needed to beat to pass)
 4. Neural Network SMS Text Classifier (natural language processing)
     - using Tensorflow, from scratch, built a neural network which classified text as either spam or not by up to 97% accuracy (on the validation test set)
+
 ---
 
 # Data Science
