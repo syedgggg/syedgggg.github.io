@@ -2,6 +2,7 @@
 
 ### Scientific Computing with Python Certification
 <img src="/projects/scientific_computing_certification.png" width="100%" height="100%">
+
 1. [Arithmetic Formatter Project](https://github.com/syedgggg/syedgggg.github.io/blob/master/projects/1_build-an-arithmetic-formatter-project.ipynb)
 2. [Time Calculator Project](https://github.com/syedgggg/syedgggg.github.io/blob/master/projects/2_build-a-time-calculator-project.ipynb)
 3. [Budget App Project](https://github.com/syedgggg/syedgggg.github.io/blob/master/projects/3_build-a-budget-app-project.ipynb)
@@ -110,6 +111,7 @@ The final stage was to adapt the information towards a non-technical audience. I
 
 ### Data Analysis with Python Certification
 <img src="/projects/DAPP/data_analysis_certification.png" width="100%" height="100%">
+
 1. [Mean Variance Standard Deviation Calculator](https://github.com/syedgggg/syedgggg.github.io/blob/master/projects/DAPP/1-mean-variance-standard-deviation-calculator.py)
 2. [Demographic Data Analyzer](https://github.com/syedgggg/syedgggg.github.io/blob/master/projects/DAPP/2-demographic-data-analyzer.ipynb)
 3. [Medical Data Visualizer](https://github.com/syedgggg/syedgggg.github.io/blob/master/projects/DAPP/3-medical-data-visualizer.ipynb)
