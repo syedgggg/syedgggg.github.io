@@ -1,11 +1,11 @@
 # Python Programming
 
 ### Scientific Computing with Python Certification
-1. Arithmetic Formatter Project
-2. Time Calculator Project
-3. Budget App Project
-4. Polygon Area Calculator Project
-5. Probability Calculator Project
+1. [Arithmetic Formatter Project](/projects/1_build-an-arithmetic-formatter-project.ipynb)
+2. [Time Calculator Project](/projects/2_build-a-time-calculator-project.ipynb)
+3. [Budget App Project](/projects/3_build-a-budget-app-project.ipynb)
+4. [Polygon Area Calculator Project](/projects/4_build-a-polygon-area-calculator-project.ipynb)
+5. [Probability Calculator Project](/projects/5_build-a-probability-calculator-project.ipynb)
 
 ---
 
