@@ -38,7 +38,9 @@ You can view TensorFlow Developer Certificate holders on our [Credential Network
 ---
 
 # Data Engineer
+
 ### [DataCamp Data Engineer Certificate](https://www.datacamp.com/certificate/DE0016152265598)
+<img src="/images/DE0016152265598.png" width="300%" height="300%">
 
 To get certified as a Data Engineer, this candidate had to demonstrate that they have the knowledge, skills, and abilities to succeed at the entry level in this role. The competency domains assessed included, but were not limited to:
 
