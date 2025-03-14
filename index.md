@@ -1,6 +1,6 @@
 # Python Programming
 
-### Scientific Computing with Python Certification
+### [Scientific Computing with Python Certification](https://www.freecodecamp.org/certification/syedgggg/scientific-computing-with-python-v7)
 <img src="/projects/scientific_computing_certification.png" width="100%" height="100%">
 
 1. [Arithmetic Formatter Project](https://github.com/syedgggg/syedgggg.github.io/blob/master/projects/1_build-an-arithmetic-formatter-project.ipynb)
@@ -20,9 +20,9 @@ This level one certificate exam tests a developers foundational knowledge of int
 
 The certificate program requires an understanding of building TensorFlow models using **Computer Vision, Convolutional Neural Networks, Natural Language Processing, and real-world image data and strategies**.
 
-You can view TensorFlow Developer Certificate holders on our [Credential Network](tensorflow.org/certificate-network)
+You can view TensorFlow Developer Certificate holders on our [Credential Network](https://developers.google.com/certification/directory/tensorflow)
 
-
+### [Machine Learning with Python](https://www.freecodecamp.org/certification/syedgggg/machine-learning-with-python-v7)
 ### Projects:
 1. [Cat and Dog Image Classifier (image classification)](https://github.com/syedgggg/syedgggg.github.io/blob/master/projects/MLPP/2_fcc_cat_dog_updated.ipynb)
     - using TensorFlow, from scratch, built a neural network which classified images as either cats or dogs successfully with above 74% accuracy (needed: 63% accuracy to pass)
@@ -32,6 +32,30 @@ You can view TensorFlow Developer Certificate holders on our [Credential Network
     - using TensorFlow to predict health care costs, built a neural network achieving mean absolute error under $3500 (metric needed to beat to pass)
 4. [Neural Network SMS Text Classifier (natural language processing)](https://github.com/syedgggg/syedgggg.github.io/blob/master/projects/MLPP/5_fcc_sms_text_classification_updated.ipynb)
     - using Tensorflow, from scratch, built a neural network which classified text as either spam or not by up to 97% accuracy (on the validation test set)
+6. [Rock Paper Scissors](https://freecodecam-boilerplate-rzqsvoew974.ws-us118.gitpod.io/)
+   - created a rock paper scissor bot by implementing a single markov chain, competed against 4 different computer and won at least 60% of the games in each match (out of 1000 matches each)
+
+---
+
+# Data Engineer
+### [DataCamp Data Engineer Certificate](https://www.datacamp.com/certificate/DE0016152265598)
+
+To get certified as a Data Engineer, this candidate had to demonstrate that they have the knowledge, skills, and abilities to succeed at the entry level in this role. The competency domains assessed included, but were not limited to:
+
+| Data Management   | Programming for Data Engineering               | Exploratory Analysis |
+|-------------------|------------------------------------|-----------------------------|
+
+Typically these skills can take candidates 100+ hours to acquire over time
+
+We tested the candidate's skills rigorously through:
+
+**Timed exams**
+
+Through a series of questions on a range of topics, we are able to establish that this individual has the knowledge required for a data engineer role. We make use of adaptive testing approaches to understand to a high degree of confidence the skill level of individuals who take the assessments.
+
+**Practical exam submission**
+
+This stage of the certification allows the candidate to demonstrate that they are able to put together their skills to solve problems they will experience in the real world. The candidate must complete a series of tasks to clean and prepare data, and result in the correct data.
 
 ---
 
