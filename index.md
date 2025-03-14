@@ -44,8 +44,8 @@ You can view TensorFlow Developer Certificate holders on our [Credential Network
 
 To get certified as a Data Engineer, this candidate had to demonstrate that they have the knowledge, skills, and abilities to succeed at the entry level in this role. The competency domains assessed included, but were not limited to:
 
-| Data Management   | Programming for Data Engineering               | Exploratory Analysis |
-|-------------------|------------------------------------|-----------------------------|
+| Data Management   | Programming for Data Engineering   | Exploratory Analysis |
+|-------------------|------------------------------------|----------------------|
 
 Typically these skills can take candidates 100+ hours to acquire over time
 
@@ -74,7 +74,7 @@ To get certified this candidate had to display that they have the knowledge, ski
 
 | Data Management   | Exploratory Analysis               | Statistical Experimentation |
 |-------------------|------------------------------------|-----------------------------|
-| **Model Development** | **Coding for Production Environments** | **Communication and Reporting** |
+| Model Development | Coding for Production Environments | Communication and Reporting |
 
 We tested the candidate's skills rigorously through:
 
@@ -112,7 +112,7 @@ To get certified this candidate had to display that they have the knowledge, ski
 
 | Analytic Fundamentals | Exploratory Analysis        |
 |-----------------------|-----------------------------|
-| **Data Management**   | **Visualization and Reporting** |
+| Data Management       | Visualization and Reporting |
 
 We tested the candidate's skills rigorously through:
 
