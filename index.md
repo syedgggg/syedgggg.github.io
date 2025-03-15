@@ -1,13 +1,13 @@
 # Python Programming
 
 ### [Scientific Computing with Python Certification](https://www.freecodecamp.org/certification/syedgggg/scientific-computing-with-python-v7)
-<img src="/projects/scientific_computing_certification.png" width="100%" height="100%">
+<img src="/projects/SCPP/scientific_computing_certification.png" width="100%" height="100%">
 
-1. [Arithmetic Formatter Project](https://github.com/syedgggg/syedgggg.github.io/blob/master/projects/1_build-an-arithmetic-formatter-project.ipynb)
-2. [Time Calculator Project](https://github.com/syedgggg/syedgggg.github.io/blob/master/projects/2_build-a-time-calculator-project.ipynb)
-3. [Budget App Project](https://github.com/syedgggg/syedgggg.github.io/blob/master/projects/3_build-a-budget-app-project.ipynb)
-4. [Polygon Area Calculator Project](https://github.com/syedgggg/syedgggg.github.io/blob/master/projects/4_build-a-polygon-area-calculator-project.ipynb)
-5. [Probability Calculator Project](https://github.com/syedgggg/syedgggg.github.io/blob/master/projects/5_build-a-probability-calculator-project.ipynb)
+1. [Arithmetic Formatter Project](https://github.com/syedgggg/syedgggg.github.io/blob/master/projects/SCPP/1_build-an-arithmetic-formatter-project.ipynb)
+2. [Time Calculator Project](https://github.com/syedgggg/syedgggg.github.io/blob/master/projects/SCPP/2_build-a-time-calculator-project.ipynb)
+3. [Budget App Project](https://github.com/syedgggg/syedgggg.github.io/blob/master/projects/SCPP/3_build-a-budget-app-project.ipynb)
+4. [Polygon Area Calculator Project](https://github.com/syedgggg/syedgggg.github.io/blob/master/projects/SCPP/4_build-a-polygon-area-calculator-project.ipynb)
+5. [Probability Calculator Project](https://github.com/syedgggg/syedgggg.github.io/blob/master/projects/SCPP/5_build-a-probability-calculator-project.ipynb)
 
 ---
 
