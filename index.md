@@ -25,7 +25,7 @@ You can view TensorFlow Developer Certificate holders on our [Credential Network
 ### [Machine Learning with Python](https://www.freecodecamp.org/certification/syedgggg/machine-learning-with-python-v7)
 <img src="/projects/MLPP/machine_learning_certification.png" width="300%" height="300%">
 
-### Projects:
+#### Projects:
 1. [Cat and Dog Image Classifier (image classification)](https://github.com/syedgggg/syedgggg.github.io/blob/master/projects/MLPP/2_fcc_cat_dog_updated.ipynb)
     - using TensorFlow, from scratch, built a neural network which classified images as either cats or dogs successfully with above 74% accuracy (needed: 63% accuracy to pass)
 2. [Book Recommendation Engine using KNN](https://github.com/syedgggg/syedgggg.github.io/blob/master/projects/MLPP/3_fcc_book_recommendation_knn.ipynb)
