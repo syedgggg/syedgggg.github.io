@@ -1,7 +1,7 @@
 # Python Programming
 
 ### [Scientific Computing with Python Certification](https://www.freecodecamp.org/certification/syedgggg/scientific-computing-with-python-v7)
-<img src="/projects/SCPP/scientific_computing_certification.png" width="100%" height="100%">
+<img src="./projects/SCPP/scientific_computing_certification.png" width="100%" height="100%">
 
 1. [Arithmetic Formatter Project](https://github.com/syedgggg/syedgggg.github.io/blob/master/projects/SCPP/1_build-an-arithmetic-formatter-project.ipynb)
 2. [Time Calculator Project](https://github.com/syedgggg/syedgggg.github.io/blob/master/projects/SCPP/2_build-a-time-calculator-project.ipynb)
