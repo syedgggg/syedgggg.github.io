@@ -1,4 +1,8 @@
-# PROGRAMMING
+<a href="#programming">Programming</a> <b>|</b> <a href="#machinelearningandartificialintelligence">Machine Learning & Artificial Intelligence</a> <b>|</b> <a href="#dataengineering">Data Engineering</a> <b>|</b> <a href="#datascience">Data Science</a> <b>|</b> <a href="#dataanalysis">Data Analysis</a> 
+
+---
+
+<h1 id='programming'>PROGRAMMING</h1>
 
 ## I. [Scientific Computing with Python](https://www.freecodecamp.org/certification/syedgggg/scientific-computing-with-python-v7)
 
@@ -14,7 +18,7 @@
 
 ---
 
-# MACHINE LEARNING & ARTIFICIAL INTELLIGENCE
+<h1 id='machinelearningandartificialintelligence'>MACHINE LEARNING & ARTIFICIAL INTELLIGENCE</h1>
 
 ## I. [TensorFlow Developer Certificate](https://www.credential.net/32336b58-f7e8-472a-8f41-6ade42699799)
 <img src="./assets/images/tfdc-proof.png" width="100%" height="100%">
@@ -45,7 +49,7 @@ You can view TensorFlow Developer Certificate holders on our [Credential Network
 
 ---
 
-# DATA ENGINEERING
+<h1 id='dataengineering'>DATA ENGINEERING</h1>
 
 ## I. [Data Engineer Certificate](https://www.datacamp.com/certificate/DE0016152265598)
 <img src="./assets/images/DE0016152265598.png" width="300%" height="300%">
@@ -72,7 +76,7 @@ This stage of the certification allows the candidate to demonstrate that they ar
 
 ---
 
-# DATA SCIENCE
+<h1 id='datascience'>DATA SCIENCE</h1>
 
 ## I. [Data Scientist Certificate](https://www.datacamp.com/certificate/DS0020343630233)
 <img src="./assets/images/DS0020343630233.png" width="300%" height="300%">
@@ -111,7 +115,7 @@ To learn more about how we built the certification and what our candidates have 
 
 ---
 
-# DATA ANALYSIS
+<h1 id='dataanalysis'>DATA ANALYSIS</h1>
 
 ## I. [Data Analyst Certificate](https://www.datacamp.com/certificate/DA0021974290337)
 <img src="./assets/images/DA0021974290337.png " width="300%" height="300%">
