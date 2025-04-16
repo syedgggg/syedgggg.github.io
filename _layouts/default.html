@@ -35,12 +35,12 @@
          <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
          {% endif %}
          {% if site.linkedin_url %}
-         <a href="{{ site.linkedin_url }}" target="_blank">View My LinkedIn Profile</a>
+         <p class="view"><a href="{{ site.linkedin_url }}" target="_blank">View My LinkedIn Profile</a></p>
          {% endif %}
          {% if site.email %}
-         <a href="mailto:{{ site.email }}">
+         <p class="view"><a href="mailto:{{ site.email }}">
             <button type="button">Email Me</button>
-         </a>
+         </a></p>
          {% endif %}
          {% if site.show_downloads %}
          <ul class="downloads">
