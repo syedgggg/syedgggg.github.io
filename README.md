@@ -1,2 +1,2 @@
-# Professional Data Portfolio
+# Technical Data Portfolio
 [syedgggg.github.io](https://syedgggg.github.io)
