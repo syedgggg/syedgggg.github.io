@@ -30,14 +30,10 @@ Navigate to: <a href="#technologies">Technologies</a> <b>|</b> <a href="#program
 
 <h1 id='machinelearningandartificialintelligence'>MACHINE LEARNING & ARTIFICIAL INTELLIGENCE</h1>
 
-## I. [TensorFlow Developer Certificate](https://www.credential.net/32336b58-f7e8-472a-8f41-6ade42699799)
+## I. [TensorFlow Developer Certificate](https://www.credential.net/32336b58-f7e8-472a-8f41-6ade42699799) [[Credential Network](https://developers.google.com/certification/directory/tensorflow)]
 <img src="./assets/images/tfdc-proof.png" width="100%" height="100%">
 
-This level one certificate exam tests a developers foundational knowledge of integrating machine learning into tools and applications.
-
-The certificate program requires an understanding of building TensorFlow models using **Computer Vision, Convolutional Neural Networks, Natural Language Processing, and real-world image data and strategies**.
-
-You can view TensorFlow Developer Certificate holders on our [Credential Network](https://developers.google.com/certification/directory/tensorflow)
+**Computer Vision, Convolutional Neural Networks, Natural Language Processing, and real-world image data and strategies**.
 
 ---
 
@@ -68,22 +64,6 @@ You can view TensorFlow Developer Certificate holders on our [Credential Network
 
 1. [Practical Exam](https://github.com/syedgggg/syedgggg.github.io/blob/master/assets/projects/DCDE/notebook.ipynb)
 
-To get certified as a Data Engineer, this candidate had to demonstrate that they have the knowledge, skills, and abilities to succeed at the entry level in this role. The competency domains assessed included, but were not limited to:
-
-**Data Management** | **Programming for Data Engineering** | **Exploratory Analysis**
-
-Typically these skills can take candidates 100+ hours to acquire over time
-
-We tested the candidate's skills rigorously through:
-
-**Timed exams**
-
-Through a series of questions on a range of topics, we are able to establish that this individual has the knowledge required for a data engineer role. We make use of adaptive testing approaches to understand to a high degree of confidence the skill level of individuals who take the assessments.
-
-**Practical exam submission**
-
-This stage of the certification allows the candidate to demonstrate that they are able to put together their skills to solve problems they will experience in the real world. The candidate must complete a series of tasks to clean and prepare data, and result in the correct data.
-
 ---
 
 <h1 id='datascience'>DATA SCIENCE</h1>
@@ -97,32 +77,6 @@ This stage of the certification allows the candidate to demonstrate that they ar
 2. [Technical Report](https://github.com/syedgggg/syedgggg.github.io/blob/master/assets/projects/DCDS/notebook.ipynb) 
 3. [Non-Technical Presentation](https://github.com/syedgggg/syedgggg.github.io/blob/master/assets/projects/DCDS/PDS-practical-exam-non-technical-presentation.pdf)
 
-To get certified this candidate had to display that they have the knowledge, skills, and abilities to perform a Data Scientist role. These included but were not limited to:
-
-| Data Management   | Exploratory Analysis               | Statistical Experimentation |
-|-------------------|------------------------------------|-----------------------------|
-| Model Development | Coding for Production Environments | Communication and Reporting |
-
-We tested the candidate's skills rigorously through:
-
-**Timed assessments**
-
-Through a series of questions on a range of topics, we are able to establish that this individual has the basic knowledge required for a data scientist role. We make use of adaptive testing approaches to understand to a high degree of confidence the skill level of individuals who take the assessments.
-
-**Practical exam submission**
-
-The final stage of the certification required the individual to complete a practical exam. This stage of the certification is graded manually and stringently by our data scientist experts.
-
-The practical exam is split into two parts:
-
->1. **Technical report:**<br>
-In the case of the technical report, the audience is a data science manager. It can be considered that the work is being presented to show how the task has been approached, why certain actions were taken, and how the work helps to solve the problem defined. There is no one right answer.
->
->2. **Non-technical presentation:**<br>
-The final stage was to adapt the information towards a non-technical audience. It is a common requirement for data scientists to have to present their work to others who have no background in data science. These audiences are interested in why the work was done and what the outcome was, typically not how it was done.
-
-To learn more about how we built the certification and what our candidates have to achieve to pass, [Download our whitepaper](https://assets.datacamp.com/email/other/ds-certification-whitepaper.pdf).
-
 ---
 
 <h1 id='dataanalysis'>DATA ANALYSIS</h1>
@@ -135,32 +89,6 @@ To learn more about how we built the certification and what our candidates have 
 1. [Instructions](https://github.com/syedgggg/syedgggg.github.io/blob/master/assets/projects/DCDA/PDA-practical-exam-instructions.pdf)
 2. [Technical Report](https://github.com/syedgggg/syedgggg.github.io/blob/master/assets/projects/DCDA/notebook.ipynb)
 3. [Non-Technical Presentation](https://github.com/syedgggg/syedgggg.github.io/blob/master/assets/projects/DCDA/PDA-practical-exam-non-technical-presentation.pdf)
-
-To get certified this candidate had to display that they have the knowledge, skills, and abilities to perform a Data Analyst role. These included but were not limited to:
-
-| Analytic Fundamentals | Exploratory Analysis        |
-|-----------------------|-----------------------------|
-| Data Management       | Visualization and Reporting |
-
-We tested the candidate's skills rigorously through:
-
-**Timed assessments**
-
-Through a series of questions on a range of topics, we are able to establish that this individual has the basic knowledge required for a data analyst role. We make use of adaptive testing approaches to understand to a high degree of confidence the skill level of individuals who take the assessments.
-
-**Coding challenge**
-
-Our coding challenges are free form, where candidates are presented with certain data but it is up to them to come up with an appropriate solution. The goal of this task is to demonstrate that the individual has the ability to perform the tasks required of them as a data analyst without being guided towards the appropriate solution.
-
-**Practical exam submission**
-
-The final stage of the certification required the individual to complete a practical exam. This stage of the certification is graded manually and stringently by our data scientist experts. The practical exam is split into two parts:
-
->1. **Technical report:**<br>
-In the case of the technical report, the audience is a data science manager. It can be considered that the work is being presented to show how the task has been approached, why certain actions were taken, and how the work helps to solve the problem defined. There is no one right answer.
->
->2. **Non-technical presentation:**<br>
-The final stage was to adapt the information towards a non-technical audience. It is a common requirement for data analysts to have to present their work to others who have no background in data analytics. These audiences are interested in why the work was done and what the outcome was, typically not how it was done.
 
 ---
 
