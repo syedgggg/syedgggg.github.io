@@ -21,15 +21,15 @@ Navigate to: <a href="#technologies">Technologies</a> <b>|</b> <a href="#program
 ### Projects
 
 1. [Arithmetic Formatter](https://github.com/syedgggg/syedgggg.github.io/blob/master/assets/projects/FCCSC/1_build-an-arithmetic-formatter-project.ipynb)
-   - function converts a list of strings which are arithmetic problems and returns the problems arranged vertically and side-by-side
+   - formats arithmetic problems vertically and side-by-side from a list of strings
 2. [Time Calculator](https://github.com/syedgggg/syedgggg.github.io/blob/master/assets/projects/FCCSC/2_build-a-time-calculator-project.ipynb)
-   - function adds duration time to start time and returns the results
+   - adds duration time to start time and returns the new time with day information
 3. [Budget App](https://github.com/syedgggg/syedgggg.github.io/blob/master/assets/projects/FCCSC/3_build-a-budget-app-project.ipynb)
-   - using OOP, created a budget app allowing user to track deposits and withdrawls and view visually money spent per category
+   - tracks deposits and withdrawls with visual spending breakdown by category
 4. [Polygon Area Calculator](https://github.com/syedgggg/syedgggg.github.io/blob/master/assets/projects/FCCSC/4_build-a-polygon-area-calculator-project.ipynb)
-   - using OOP, created an app calculating polygon areas and rendering the output visually
+   - calculates and visually renders areas of various polygons
 5. [Probability Calculator](https://github.com/syedgggg/syedgggg.github.io/blob/master/assets/projects/FCCSC/5_build-a-probability-calculator-project.ipynb)
-   - an application to determine the approximate probability of drawing certain balls from a hat
+   - simulates and calculates probabilities of drawing specific balls from a list
 
 ---
 
