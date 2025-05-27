@@ -21,10 +21,15 @@ Navigate to: <a href="#technologies">Technologies</a> <b>|</b> <a href="#program
 ### Projects
 
 1. [Arithmetic Formatter](https://github.com/syedgggg/syedgggg.github.io/blob/master/assets/projects/FCCSC/1_build-an-arithmetic-formatter-project.ipynb)
+   - function converts a list of strings which are arithmetic problems and returns the problems arranged vertically and side-by-side
 2. [Time Calculator](https://github.com/syedgggg/syedgggg.github.io/blob/master/assets/projects/FCCSC/2_build-a-time-calculator-project.ipynb)
+   - function adds duration time to start time and returns the results
 3. [Budget App](https://github.com/syedgggg/syedgggg.github.io/blob/master/assets/projects/FCCSC/3_build-a-budget-app-project.ipynb)
+   - using OOP, created a budget app allowing user to track deposits and withdrawls and view visually money spent per category
 4. [Polygon Area Calculator](https://github.com/syedgggg/syedgggg.github.io/blob/master/assets/projects/FCCSC/4_build-a-polygon-area-calculator-project.ipynb)
+   - using OOP, created an app calculating polygon areas and rendering the output visually
 5. [Probability Calculator](https://github.com/syedgggg/syedgggg.github.io/blob/master/assets/projects/FCCSC/5_build-a-probability-calculator-project.ipynb)
+   - an application to determine the approximate probability of drawing certain balls from a hat
 
 ---
 
@@ -42,15 +47,15 @@ Navigate to: <a href="#technologies">Technologies</a> <b>|</b> <a href="#program
 
 ### Projects
 
-1. [Rock Paper Scissors](https://freecodecam-boilerplate-rzqsvoew974.ws-us118.gitpod.io/)
+1. [Rock Paper Scissors](https://gitpod.io#snapshot/3854204e-375e-483b-9cf0-017a14c75be8)
     - developed rock paper scissor bot by implementing a single markov chain, competed against 4 different computer and won at least 60% of the games in each match (out of 1000 matches each)
-2. [Cat and Dog Image Classifier](https://github.com/syedgggg/syedgggg.github.io/blob/master/assets/projects/FCCML/2_fcc_cat_dog_uDCDAted.ipynb)
+2. [Cat and Dog Image Classifier](https://github.com/syedgggg/syedgggg.github.io/blob/master/assets/projects/FCCML/2_fcc_cat_dog_updated.ipynb)
    - using TensorFlow, from scratch, built a neural network which classified images as either cats or dogs successfully with above 74% accuracy (needed: 63% accuracy to pass)
 3. [Book Recommendation Engine using KNN](https://github.com/syedgggg/syedgggg.github.io/blob/master/assets/projects/FCCML/3_fcc_book_recommendation_knn.ipynb)
    - using scikit-learn to create a recommendation engine which returns 5 book suggestions based on a book suggestion from user
 4. [Linear Regression Health Costs Calculator](https://github.com/syedgggg/syedgggg.github.io/blob/master/assets/projects/FCCML/4_fcc_predict_health_costs_with_regression.ipynb)
    - using TensorFlow to predict health care costs, built a neural network achieving mean absolute error under $3500 (metric needed to beat to pass)
-5. [Neural Network SMS Text Classifier](https://github.com/syedgggg/syedgggg.github.io/blob/master/assets/projects/FCCML/5_fcc_sms_text_classification_uDCDAted.ipynb)
+5. [Neural Network SMS Text Classifier](https://github.com/syedgggg/syedgggg.github.io/blob/master/assets/projects/FCCML/5_fcc_sms_text_classification_updated.ipynb)
    - using Tensorflow, from scratch, built a neural network which classified text as either spam or not by up to 97% accuracy (on the validation test set)
 
 ---
