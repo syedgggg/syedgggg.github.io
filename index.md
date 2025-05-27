@@ -1,4 +1,4 @@
-Navigate to: <a href="#technologies">Technologies</a> <b>|</b> <a href="#programming">Programming</a> <b>|</b> <a href="#machinelearningandartificialintelligence">Machine Learning & Artificial Intelligence</a> <b>|</b> <a href="#dataengineering">Data Engineering</a> <b>|</b> <a href="#datascience">Data Science</a> <b>|</b> <a href="#dataanalysis">Data Analysis</a> 
+Navigate to: <a href="#technologies">Technologies</a> <b>|</b> <a href="#capstoneprojects">Capstone Projects</a> <b>|</b> <a href="#programming">Programming</a> <b>|</b> <a href="#machinelearningandartificialintelligence">Machine Learning & Artificial Intelligence</a> <b>|</b> <a href="#dataengineering">Data Engineering</a> <b>|</b> <a href="#datascience">Data Science</a> <b>|</b> <a href="#dataanalysis">Data Analysis</a> 
 
 ---
 
@@ -9,6 +9,15 @@ Navigate to: <a href="#technologies">Technologies</a> <b>|</b> <a href="#program
 - Databases: PostgreSQL, MongoDB, MySQL, Snowflake, ChromaDB
 - Cloud: AWS (S3, EC2, Redshift), GCP (BigQuery), Azure
 - Other: Git & GitHub, YAML, PowerPoint, LangChain, Hugging Face, GenAI
+
+---
+
+<h1 id='capstoneprojects'>CAPSTONE PROJECTS</h1>
+1. statistical analysis
+2. natural language processing
+3. deep learning
+4. data engineering
+5. large language models
 
 ---
 
