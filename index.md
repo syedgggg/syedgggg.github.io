@@ -103,9 +103,14 @@ Navigate to: <a href="#technologies">Technologies</a> <b>|</b> <a href="#program
 ### Projects
 
 1. [Mean Variance Standard Deviation Calculator](https://github.com/syedgggg/syedgggg.github.io/blob/master/assets/projects/FCCDA/1-mean-variance-standard-deviation-calculator.py)
+   - calculates key statistical measures (mean, variance, standard deviation, maximum, minimum, and sum) for 3x3 matrices
 2. [Demographic Data Analyzer](https://github.com/syedgggg/syedgggg.github.io/blob/master/assets/projects/FCCDA/2-demographic-data-analyzer.ipynb)
+   - analyzes demographic data using pandas to answer questions about income, education and work hours
 3. [Medical Data Visualizer](https://github.com/syedgggg/syedgggg.github.io/blob/master/assets/projects/FCCDA/3-medical-data-visualizer.ipynb)
+   - visualizes relationships between medical variables using seaborn and matplotlib
 4. [Page View Time Series Visualizer](https://github.com/syedgggg/syedgggg.github.io/blob/master/assets/projects/FCCDA/4-page-view-time-series-visualizer.ipynb)
+   - creates time series visualizations of page view data using pandas and matplotlib
 5. [Sea Level Predictor](https://github.com/syedgggg/syedgggg.github.io/blob/master/assets/projects/FCCDA/5-sea-level-predictor.ipynb)
+   - uses linear regression to predict future sea level changes based on historical data
 
 ---
