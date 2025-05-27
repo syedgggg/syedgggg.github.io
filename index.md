@@ -68,6 +68,7 @@ Navigate to: <a href="#technologies">Technologies</a> <b>|</b> <a href="#program
 ### Projects
 
 1. [Practical Exam](https://github.com/syedgggg/syedgggg.github.io/blob/master/assets/projects/DCDE/notebook.ipynb)
+   - Designed and implemented an ETL pipeline for processing (2500+ rows) and storing customer health care and activity data for a personalized supplement company
 
 ---
 
@@ -79,8 +80,17 @@ Navigate to: <a href="#technologies">Technologies</a> <b>|</b> <a href="#program
 ### Projects
 
 1. [Instructions](https://github.com/syedgggg/syedgggg.github.io/blob/master/assets/projects/DCDS/PDS-practical-exam-instructions.pdf)
-2. [Technical Report](https://github.com/syedgggg/syedgggg.github.io/blob/master/assets/projects/DCDS/notebook.ipynb) 
+   - used boat online marketplace wants a prediction model to predict the number of views a listing will recieve based on listed boat features
+2. [Technical Report](https://github.com/syedgggg/syedgggg.github.io/blob/master/assets/projects/DCDS/notebook.ipynb)
+   - data validation & data cleaning
+   - exploratory data analysis
+   - model development
+   - model evaluation
+   - connect to business success criteria
 3. [Non-Technical Presentation](https://github.com/syedgggg/syedgggg.github.io/blob/master/assets/projects/DCDS/PDS-practical-exam-non-technical-presentation.pdf)
+   - business description & business goal
+   - summary of work
+   - key findings & technical recommendations
 
 ---
 
@@ -92,8 +102,16 @@ Navigate to: <a href="#technologies">Technologies</a> <b>|</b> <a href="#program
 ### Projects
 
 1. [Instructions](https://github.com/syedgggg/syedgggg.github.io/blob/master/assets/projects/DCDA/PDA-practical-exam-instructions.pdf)
+   - travel insurance company requiring customer analysis to optimize marketing channels due to 50% marketing budget cut
 2. [Technical Report](https://github.com/syedgggg/syedgggg.github.io/blob/master/assets/projects/DCDA/notebook.ipynb)
+   - data validation and data cleaning
+   - exploratory data analysis
+   - data visualization
+   - business recommendations
 3. [Non-Technical Presentation](https://github.com/syedgggg/syedgggg.github.io/blob/master/assets/projects/DCDA/PDA-practical-exam-non-technical-presentation.pdf)
+   - business description & business goal
+   - problem validation
+   - key findings & business recommendations
 
 ---
 
